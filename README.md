@@ -1,4 +1,4 @@
-Reprosiory ini berisikan codingan folder dan file terkait dengan website Agenda Belanja menggunakan laravel dan bootstrap.
+Reprository ini berisikan codingan folder dan file terkait dengan website Agenda Belanja menggunakan laravel dan bootstrap.
 Terdapat dua views, yaitu bagian index dan edit.
 Terdapat beberapa fitur, yaitu tambah data, edit data, dan hapus data, serta fitur search.
 
